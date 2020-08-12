@@ -1,5 +1,9 @@
 {
     "TabSet1": 0,
+<<<<<<< HEAD
+    "TabSet2": 4,
+=======
     "TabSet2": 2,
+>>>>>>> parent of 2f29853... fix
     "TabZoom": {}
 }
