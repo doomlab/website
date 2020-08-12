@@ -1,0 +1,78 @@
+baseURL = "https://cnsyoung.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Dr. Crystal N. Steltenpohl Young"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = "UA-175254971-1"
+
+# Enable Disqus
+#disqusShortname = ""
+
+[params]
+title = "Crystal N. Steltenpohl Young, PhD"
+author = "Dr. Crystal N. Steltenpohl Young"
+description = "Linking research with action"
+profilePicture = "images/profile.jpg"
+keywords = "community psychology, research, evaluation, consultation"
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/cnsyoung/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/CNSYoung"
+
+# [[params.socialIcons]]
+# icon = "fa-instagram"
+# title = "instagram"
+# url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:cnsyoung2010@gmail.com"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "http://twitter.com/CNSYoung"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
+  
+  [[menu.main]]
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
+
