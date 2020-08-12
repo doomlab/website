@@ -7,6 +7,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-175254971-1"
+publishDir = "docs"
 
 # Enable Disqus
 #disqusShortname = ""
