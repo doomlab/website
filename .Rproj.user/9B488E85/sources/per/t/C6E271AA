@@ -1,9 +1,9 @@
 {
     "id": "C6E271AA",
-    "path": "C:/Users/cnste/Documents/site/config.toml",
+    "path": "~/GitHub/website/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "2915964931",
+    "hash": "3720420845",
     "contents": "",
     "dirty": false,
     "created": 1597243110147.0,
@@ -14,11 +14,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1597244226,
+    "lastKnownWriteTime": 1597246406,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1597244226674,
+    "last_content_update": 1597246406,
     "read_only": false,
     "read_only_alternatives": []
 }
